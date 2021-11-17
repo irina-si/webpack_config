@@ -1,6 +1,6 @@
 $title-font: normal 24px/1.5 'Open Sans',
 sans-serif;
-$cool-red: #F44336;
+$cool-red: #f44336;
 
 h1.title {
   font: $title-font;
@@ -14,7 +14,7 @@ h1.title {
 }
 
 .small-blue-square {
-  @include square(20px, rgb(0, 0, 255));
+  @include square(20px, rgb(255, 153, 0));
 }
 
 .big-red-square {
